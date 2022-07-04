@@ -84,6 +84,7 @@ public class GoogleSignUpActivity extends AppCompatActivity {
         i.setAction(Intent.ACTION_GET_CONTENT);
         startActivityForResult(i,5);
     }
+//    kali is the best
     public void signUp(String uname){
                     reference.child("Users").child(auth.getUid()).child("UserName").setValue(uname);
                     if(isImageSelected){
