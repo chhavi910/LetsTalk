@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543090164628",
+    "project_id": "let-stalk-1337d",
+    "storage_bucket": "let-stalk-1337d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543090164628:android:0ef3bd4c6a251259360581",
+        "android_client_info": {
+          "package_name": "com.example.letstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543090164628-q9jon0vdq2jm9qjkvn0tgr1skl65huh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4z6kTU4NnHAi0CoAiULNpuFI2fUWy0kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543090164628-q9jon0vdq2jm9qjkvn0tgr1skl65huh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
