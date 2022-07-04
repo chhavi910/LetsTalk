@@ -85,7 +85,6 @@ public class GoogleSignUpActivity extends AppCompatActivity {
         startActivityForResult(i,5);
     }
     public void signUp(String uname){
-
                     reference.child("Users").child(auth.getUid()).child("UserName").setValue(uname);
                     if(isImageSelected){
                         UUID imageID=UUID.randomUUID();
